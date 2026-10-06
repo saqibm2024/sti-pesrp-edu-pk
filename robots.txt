@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-USERNAME.github.io/sti-online-application-2026/sitemap.xml
+Sitemap: https://saqibm2024.github.io/sti-pesrp-edu-pk/sitemap.xml
